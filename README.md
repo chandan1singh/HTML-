@@ -1,11 +1,11 @@
-# HTML 
+# JAVASCRPT
 - [Introduction](#Introduction)
   
      [Purpose](#Purpose)
   
      [Audience](#Audience)
   
-- [What is HTML](#WhatisHTML)
+- [What is JAVASCRIPT](#WhatisJavascript)
 
      [History](#History)
      [](#)
@@ -18,13 +18,13 @@
 - 
 ### Purpose
 
-This document provides an overview of HTML (Hypertext Markup Language), including its basic structure, essential elements, and common use cases. It is intended for beginners and those looking to understand the fundamentals of web development.
+This document provides an overview of JavaScript, a versatile programming language used to make websites interactive. It covers basic concepts, syntax, and common use cases.
 
 ### Audience 
 
-This documentation is aimed at individuals new to HTML, web developers, and anyone interested in creating or managing web content.
+This guide is intended for beginners who are new to JavaScript and want to understand its fundamental concepts and usage.
 
-- ## What is HTML
+- ## What is JAVASCRIPT
   HTML stands for Hypertext Markup Language. It is the standard language used to create and design webpages. HTML provides the basic structure of web documents, enabling the inclusion of text, images, links, and other elements.
 
 ### History
