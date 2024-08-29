@@ -1,7 +1,10 @@
 # HTML 
 - [Introduction](#Introduction)
+  
      [Purpose](#Purpose)
+  
      [Audience](#Audience)
+  
 - [What is HTML](#WhatisHTML)
      [](#)
      [](#)
